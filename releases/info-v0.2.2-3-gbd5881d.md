@@ -1,0 +1,6 @@
+# UAVLAS firmware for all ULSQx devices.
+## Changes: 
+* Boundle type of package
+* Bugs fixed
+* Connection protocols for NED and FRD messges
+* MRX Yaw function added
